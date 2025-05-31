@@ -23,6 +23,14 @@ Open .env and replace placeholders with your own values:
 GROQ_API_KEY=your_real_api_key_here
 
 ########################################
+
+
+## 🔗 Run in Google Colab
+
+You can open and run this project directly in Google Colab:
+
+ [Open in Colab](https://colab.research.google.com/github/ganesh-v24/groq_chatbot/blob/main/notebook.ipynb)
+
 Install dependencies:
 
 pip install -r requirements.txt
